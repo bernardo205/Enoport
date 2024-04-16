@@ -1,0 +1,10 @@
+﻿.banner .card {
+    height: 700px;
+    background-color: darkgrey;
+}
+
+.banner .card-img-overlay {
+    position: relative;
+    top: 180px;
+    left: 160px;
+}

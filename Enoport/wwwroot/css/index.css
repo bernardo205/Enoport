@@ -1,0 +1,98 @@
+﻿
+.slide img {
+    filter: brightness(0.7);
+    height: 750px;
+}
+
+main .carousel-indicators {
+    right: 95px;
+    bottom: 160px;
+    flex-direction: column;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    left: unset;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-clip: unset;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    width: 25px;
+    height: 25px;
+    border-top: unset;
+    border-bottom: unset;
+}
+main .carousel-caption {
+    top: 243px;
+    right: 55%;
+    left: 11%;
+    color: #fff;
+    text-align: start;
+}
+
+.history img{
+    width: 1600px;
+    height: 590px;
+    object-fit: cover;
+}
+
+main .card-img-overlay {
+    left: unset;
+    text-align: end;
+    top: 118px;
+    right: 180px;
+}
+
+.s-c-s img {
+    height: 750px;
+    filter: brightness(0.7)
+}
+
+.s-c-s .carousel-indicators {
+    bottom: 30px;
+    right: 30px;
+}
+
+label {
+    color: white;
+    position: relative;
+    right: 230px;
+    bottom: -18px;
+}
+
+main .c-i-o {
+    top: 175px;
+    left: 400px;
+    right: unset
+}
+
+.pub {
+    height: 600px;
+    margin: 10px 30px;
+    display: flex;
+}
+
+.pub .card {
+    border: 1px solid #ccc;
+    width: 50%;
+    padding: 35px;
+}
+
+.tag {
+    font-size: 10px;
+}
+
+.tag span {
+    color: #7B0323;
+}
+
+.title {
+    font-size: 35px;
+    line-height: 1.1;
+}
+
+.pub img {
+    height: 470px;
+    border: 1px solid black;
+}
