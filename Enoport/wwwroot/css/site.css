@@ -1,3 +1,11 @@
+.kalnia{
+    font-family: "Kalnia", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
 html {
     overflow-x: hidden;
 }
@@ -9,6 +17,17 @@ html::-webkit-scrollbar {
 header .navbar {
     padding: 0.2% 5%;
     transition: all 0.5s;
+}
+
+header .n-b0 img{
+    position: relative;
+    left: -50px;
+}
+
+.n-b img{
+    position: relative;
+    left: 430px;
+    top: -250px;    
 }
 
 header .navbar a {
@@ -100,4 +119,27 @@ footer p {
     top: 25px;
     left: 605px;
     font-size: 10px;
+}
+
+/*
+main{
+    display: none;
+}
+
+html{
+    background-color: black
+}
+
+footer{
+    margin-top: 1000px;
+}
+
+@media screen and (min-width:500px){
+    header .navbar-nav {
+        display: none;
+    }
+}*/
+
+@media (max-width: 990px){
+
 }

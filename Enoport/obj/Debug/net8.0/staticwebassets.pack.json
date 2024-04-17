@@ -25,8 +25,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\04.webp",
+      "PackagePath": "staticwebassets\\img\\04.webp"
+    },
+    {
       "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\4010065-1.jpg",
       "PackagePath": "staticwebassets\\img\\4010065-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\55.webp",
+      "PackagePath": "staticwebassets\\img\\55.webp"
     },
     {
       "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\AGUARDENTE-CURVADA-DE-VELHA.png",
@@ -45,12 +53,20 @@
       "PackagePath": "staticwebassets\\img\\AG_FIMDESECULO_2_1024x1024.webp"
     },
     {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\Diario-da-Quinta-Branco.png",
+      "PackagePath": "staticwebassets\\img\\Diario-da-Quinta-Branco.png"
+    },
+    {
       "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\Enoport---faturas_grand.jpg",
       "PackagePath": "staticwebassets\\img\\Enoport---faturas_grand.jpg"
     },
     {
       "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\Enoport---faturas_pequeno.jpg",
       "PackagePath": "staticwebassets\\img\\Enoport---faturas_pequeno.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\Faisao-Red-Berries.png",
+      "PackagePath": "staticwebassets\\img\\Faisao-Red-Berries.png"
     },
     {
       "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\H2854-L256352134_original.jpg",
@@ -69,8 +85,32 @@
       "PackagePath": "staticwebassets\\img\\Logo-Enoport-Wines.png"
     },
     {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\QUINTA-S.-JOAO-BATISTA-GRANDE-RESERVA-2018-600x600.jpg",
+      "PackagePath": "staticwebassets\\img\\QUINTA-S.-JOAO-BATISTA-GRANDE-RESERVA-2018-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\cabeca-toiro-priv.png",
+      "PackagePath": "staticwebassets\\img\\cabeca-toiro-priv.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\cabeca-toiro.png",
+      "PackagePath": "staticwebassets\\img\\cabeca-toiro.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\casaleiro.jpg",
+      "PackagePath": "staticwebassets\\img\\casaleiro.jpg"
+    },
+    {
       "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\fim-de-seculo-2.webp",
       "PackagePath": "staticwebassets\\img\\fim-de-seculo-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\lagosta-white.jpg",
+      "PackagePath": "staticwebassets\\img\\lagosta-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\manga-refrigeradora-de-garrafas-vinhedo.webp",
+      "PackagePath": "staticwebassets\\img\\manga-refrigeradora-de-garrafas-vinhedo.webp"
     },
     {
       "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\quinta1.jpg",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enoport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6dee4930457b41ebe5b23c85906a919194a18a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d9d54f6a6b4cb7d7c2a58b551dec27e070ef190")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enoport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enoport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

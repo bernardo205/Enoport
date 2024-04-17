@@ -1,10 +1,135 @@
 ﻿.banner .card {
     height: 700px;
-    background-color: darkgrey;
+    background-color: deeppink;
 }
 
 .banner .card-img-overlay {
     position: relative;
     top: 180px;
     left: 160px;
+    color: black;
+}
+
+.card-img-overlay a{
+    padding: 5px;
+    border: 1px solid black;
+    width: 100px;
+}
+
+.nav a {
+    color: black;
+}
+
+.nav-pills .nav-link.active {
+    color: black;
+    background-color: white;
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: black;
+}
+
+main .nav {
+    position: relative;
+    left: 470px;
+}
+
+.pub{
+    margin: 15px 30px;
+    display: flex;
+    gap: 50px;
+    height: 250px;
+}
+
+.pub img {
+    width: 40%;
+
+
+    background-color: #ccc;
+}
+
+.destaques {
+    margin: 50px 30px;
+}
+
+.top-section {
+    display: flex;
+}
+
+    .top-section p {
+        font-size: 25px;
+        position: relative;
+        left: 90px;
+        font-family: Kalnia
+    }
+
+.top-section button {
+    padding: 1px 5px;
+    font-size: 15px;
+    height: 24px;
+    position: relative;
+    top: 45px;
+    left: 880px;    
+    border: 1px solid #ccc;
+    background-color: white;
+}
+.product-zone {
+    display: flex;
+}
+
+.prod {
+    border: 1px solid #ccc;
+    width: 20%;
+    
+}
+
+.price {
+    font-size: 25px;
+    color: #7B0323
+}
+
+.price s {
+    font-size: 15px;
+    color: black;
+}
+
+.name {
+    height: 72px;
+}
+
+.type {
+    font-size: 10px;
+}
+
+.prod img {
+    max-height:400px;
+    width: 100%;
+}
+
+.buy button {
+    width: 115px;
+    background-color: #d10236;
+    color: black;
+    border: none;
+}
+
+.buy svg {
+    margin: 0 15px;
+}
+
+.buy {
+    display: none;
+    margin: 10px;
+}
+
+.prod:hover, .product-card:hover {
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.4)
+}
+
+.product-card:hover > .buy {
+    display: block;
+}
+
+.prod:hover > .buy {
+    display: block;
 }
