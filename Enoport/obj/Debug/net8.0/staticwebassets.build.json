@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AlCQ5eSuWJNf4Di73+II0zcChiTOZs4TDIw3CYOEmMA=",
+  "Hash": "bsLfmqal75oFBeCpb5IdLu7jldMYmXushz5lLW3spbU=",
   "Source": "Enoport",
   "BasePath": "_content/Enoport",
   "Mode": "Default",
@@ -321,6 +321,25 @@
       "OriginalItemSpec": "wwwroot\\img\\cabeca-toiro-priv.png"
     },
     {
+      "Identity": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\cabeca-toiro-removebg-preview.png",
+      "SourceId": "Enoport",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\",
+      "BasePath": "_content/Enoport",
+      "RelativePath": "img/cabeca-toiro-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cabeca-toiro-removebg-preview.png"
+    },
+    {
       "Identity": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\casaleiro.jpg",
       "SourceId": "Enoport",
       "SourceType": "Discovered",
@@ -357,6 +376,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Diario-da-Quinta-Branco.png"
+    },
+    {
+      "Identity": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\enopint.png",
+      "SourceId": "Enoport",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\",
+      "BasePath": "_content/Enoport",
+      "RelativePath": "img/enopint.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\enopint.png"
     },
     {
       "Identity": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\Enoport---faturas_grand.jpg",

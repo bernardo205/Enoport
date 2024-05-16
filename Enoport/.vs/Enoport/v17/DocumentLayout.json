@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|c:\\users\\berna\\desktop\\isla\\estagio\\enoport\\enoport\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|c:\\users\\berna\\desktop\\isla\\estagio\\enoport\\enoport\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|solutionrelative:wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|c:\\users\\berna\\desktop\\isla\\estagio\\enoport\\enoport\\wwwroot\\css\\shop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|solutionrelative:wwwroot\\css\\shop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|c:\\users\\berna\\desktop\\isla\\estagio\\enoport\\enoport\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|c:\\users\\berna\\desktop\\isla\\estagio\\enoport\\enoport\\wwwroot\\css\\team.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|solutionrelative:wwwroot\\css\\team.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|c:\\users\\berna\\desktop\\isla\\estagio\\enoport\\enoport\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|c:\\users\\berna\\desktop\\isla\\estagio\\enoport\\enoport\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|solutionrelative:views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|c:\\users\\berna\\desktop\\isla\\estagio\\enoport\\enoport\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63F33063-3970-41ED-B9A3-9F587E0B2660}|Enoport.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "team.css",
+              "DocumentMoniker": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\css\\team.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\team.css",
+              "ToolTip": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\css\\team.css",
+              "RelativeToolTip": "wwwroot\\css\\team.css",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-16T11:03:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAMwHwAAAAFAAAA",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAuwIUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-17T14:37:56.194Z",
+              "WhenOpened": "2024-05-16T10:10:45.506Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFYAAAAdAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowHMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T11:24:32.554Z",
+              "WhenOpened": "2024-05-16T10:05:22.019Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shop.css",
+              "DocumentMoniker": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\css\\shop.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\shop.css",
+              "ToolTip": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\css\\shop.css",
+              "RelativeToolTip": "wwwroot\\css\\shop.css",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAuwIMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-16T08:24:47.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "Views\\Home\\Shop.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAEwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T08:24:39.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "wwwroot\\css\\index.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-16T08:28:23.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T08:32:25.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

@@ -3,7 +3,13 @@
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    font-variation-settings: "wdth" 100;
+}
+
+.Outfit{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 html {
@@ -12,134 +18,306 @@ html {
 
 html::-webkit-scrollbar {
     display: none;
+} 
+
+header ul {
+    padding: 0;
 }
 
-header .navbar {
-    padding: 0.2% 5%;
-    transition: all 0.5s;
+.nav {
+    display: flex;
+    margin: 0 36px;
+    padding: 17px 5px;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    height: 80px;
 }
 
-header .n-b0 img{
-    position: relative;
-    left: -50px;
-}
-
-.n-b img{
-    position: relative;
-    left: 430px;
-    top: -250px;    
-}
-
-header .navbar a {
-    text-decoration: none;
-    color: white;
-    position: relative;
-    top: -8px;
-    left: 6px
-}
-
-header .navbar a:hover {
-    background: none;
-    color: #7B0323;
-}
-
-.navbar a:active {
-    color: #7B0323;
-}
-
-.navbar a:focus {
-    color: #7B0323;
-}
-
-.dropdown-menu[data-bs-popper] {
-    top: 90%;
-    left: -144px;
-    width: 1548px;
-}
-
-.dropdown-item {
-    margin-left: 137px;
-    color: black
-}
-
-    .dropdown-item:hover {
-        color: #7B0323;
-        margin-left: 150px;
-    }
-
-.navbar-scrolled, .white-bg {
+.navbar-scrolled, .white-nav {
     background-color: white;
 }
 
-.navbar-scrolled svg, .white-bg svg{
-    fill: black
+.navbar-scrolled svg {
+    fill: black;
 }
 
-    header .navbar-scrolled a{
+.white-nav svg {
+    fill: black;
+}
+
+.navbar-scrolled a {
+    color: black !important;
+}
+
+.white-nav a {
+    color: black !important;
+}
+
+.white-nav img{
+    width: 155px;
+    margin-left: 225px;
+}
+
+header ul {
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    list-style-type: none;
+    gap: 18px;
+    font-size: 15px;
+}
+
+.dropdown-menu {
+    top: 32px !important;
+    border: unset;
+    border-radius: unset;
+    border-top: 1px solid #eee;
+    width: 1600px;
+    left: 0 !important;
+    padding-left: 125px;
+    height: 232px;
+    font-size: 12px;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    background-color: unset;
+    margin-left: 15px;
+    color: #7B0323 !important;
+}
+
+li {
+    position: relative;
+    top: 10px;
+}
+
+header a {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+header svg {
+    fill: white;
+}
+
+    li a:hover {
         color: black;
     }
 
-header .white-bg a {
-    color: black;
+a img {
+    width: 280px;
+    position: absolute;
+    right: 635px;
 }
 
-
-footer a {
-    color: #7B0323;
-    font-size: 30px;
-    position: relative;
-    left: 600px;
-    
+.right-side {
+    position: absolute;
+    left: 70px;
 }
+
+.left-side {
+    position: absolute;
+    right: 95px;
+}
+
+.svg1 {
+    left: 15px;
+}
+
+.svg2 {
+    left: 25px;
+}
+
+.sec-menu {
+    height: 280px !important;
+    top: 32px !important;
+    border: unset;
+    border-radius: unset;
+    border-top: 1px solid #eee;
+    width: 1600px;
+    left: 0 !important;
+    padding-left: 125px;
+    font-size: 12px;
+}
+
+.compact {
+    display: none;
+}
+
 
 footer {
-    height: 180px;
+    height: 315px;
+    margin: 0 36px;
+    border: 1px solid #eee;
+    border-top: 0;
+    border-bottom: 0;
 }
+
+    footer a {
+        font-size: 25px;
+        position: relative;
+        left: 588px;
+        font-family: Kalnia;
+        top: 50px;
+        color: #7B0323 !important;
+    }
+
+    footer a svg {
+        position: relative;
+        left: 20px;
+    }
 
 footer img {
     position: relative;
-    left: 280px;
-    top: 40px;
+    left: 330px;
+    top:140px;
 }
 
 .social-media {
     position: relative;
-    top: 30px;
-    left: 745px;
+    left: 724px;
+    top: 147px;
+    display: flex;
+    gap: 20px;
 }
+
 
 footer p {
     position: relative;
-    top: 40px;
     left: 453px;
+    top: 200px;
+    font-family: Outfit;
 }
 
 .f-p {
     position: relative;
-    top: 25px;
     left: 605px;
     font-size: 10px;
+    top: 190px;
 }
 
-/*
-main{
-    display: none;
-}
 
-html{
-    background-color: black
-}
-
-footer{
-    margin-top: 1000px;
-}
-
-@media screen and (min-width:500px){
-    header .navbar-nav {
+@media (min-width: 300px) and (max-width:1009px) {
+    .apear {
         display: none;
     }
-}*/
+    .compact {
+        display: block;
+    }
+}
 
-@media (max-width: 990px){
+@media (max-width: 500px) {
+    .f-p {
+        left: 40px;
+    }
+    footer p {
+        left: 15px;
+        font-size: 10px;
+    }
+    .social-media {
+        left: 155px;
+    }
+    footer img {
+        left: 100px;
+    }
+    footer a {
+        left: 50px;
+    }
+}
+@media (min-width: 570px) and (max-width: 670px) {
+    a img {
+        left: 100px;
+    }
+}
 
+@media (min-width: 600px) and (max-width: 800px) {
+    a img {
+        left: 200px;
+    }
+
+
+}
+
+@media (max-width: 730px) {
+    footer a {
+        left: 150px;
+    }
+
+    footer img {
+        left: -145px;
+    }
+
+    .social-media {
+        left: 250px;
+    }
+
+    footer p {
+        left: 15px;
+        font-size: 14px;
+    }
+
+    .f-p {
+        left: 150px;
+    }
+}
+
+@media (min-width:800px) and (max-width: 1009px) {
+    a img {
+        left: 310px;
+    }
+}
+
+@media (max-width: 830px) {
+    .f-p {
+        left: 300px;
+    }
+
+    footer p {
+        left: 130px;
+    }
+
+    .social-media {
+        left: 400px;
+    }
+
+    footer img {
+        left: 20px;
+    }
+
+    footer a {
+        left: 290px;
+    }
+}
+
+@media (min-width:1009px) and (max-width:1280px) {
+    a img {
+        display: none;
+    }
+}
+
+@media (min-width: 920px) and (max-width: 1100px) {
+    footer a {
+        left: 400px;
+    }
+
+    footer img {
+        left: 115px;
+    }
+
+    .social-media {
+        left: 505px;
+    }
+
+    footer p {
+        left: 270px;
+    }
+
+    .f-p {
+        left: 400px;
+    }
+}
+
+@media (min-width:1280px) and (max-width: 1420px) {
+    a img {
+        right: unset;
+        left: 505px;
+    }
 }

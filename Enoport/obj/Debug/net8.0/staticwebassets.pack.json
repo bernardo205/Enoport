@@ -93,12 +93,20 @@
       "PackagePath": "staticwebassets\\img\\cabeca-toiro-priv.png"
     },
     {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\cabeca-toiro-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\cabeca-toiro-removebg-preview.png"
+    },
+    {
       "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\cabeca-toiro.png",
       "PackagePath": "staticwebassets\\img\\cabeca-toiro.png"
     },
     {
       "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\casaleiro.jpg",
       "PackagePath": "staticwebassets\\img\\casaleiro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\enopint.png",
+      "PackagePath": "staticwebassets\\img\\enopint.png"
     },
     {
       "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Enoport\\Enoport\\wwwroot\\img\\fim-de-seculo-2.webp",

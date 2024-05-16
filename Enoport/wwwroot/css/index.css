@@ -1,12 +1,16 @@
-﻿
+﻿.online {
+    display: none;
+}
+
 .slide img {
     filter: brightness(0.7);
     height: 750px;
+    object-fit: cover;
 }
 
 main .carousel-indicators {
-    right: 95px;
-    bottom: 160px;
+    right: 85px;
+    bottom: 305px;
     flex-direction: column;
     margin-right: 0;
     margin-bottom: 0;
@@ -18,12 +22,28 @@ main .carousel-indicators {
     background-clip: unset;
     border-radius: 50%;
     margin-bottom: 5px;
-    width: 25px;
-    height: 25px;
-    border-top: unset;
-    border-bottom: unset;
+    width: 15px;
+    height: 15px;
+    border: 3px solid white;
+    background-color: transparent;
 }
-main .carousel-caption {
+
+.carousel-caption {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-top: 0; 
+    padding-bottom: 0;
+    color: #fff;
+    text-align: center;
+    height: 100%;
+        margin: 0 36px;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+}
+
+main .inner {
     top: 243px;
     right: 55%;
     left: 11%;
@@ -31,69 +51,448 @@ main .carousel-caption {
     text-align: start;
 }
 
+.p1-1 {
+    font-size: 51px;
+    line-height: 1;
+    margin-bottom: 0;
+    font-family: Kalnia;
+    position: absolute;
+    top: 265px;
+    left: 130px;
+}
+
+.p1-2 {
+    font-size: 14px;
+    width: 340px;
+    position: absolute;
+    top: 640px;
+    left: 132px;
+    line-height: 1.3;
+    font-family: "Outfit", sans-serif;
+    color: lightgray;
+}
+
+main .card {
+    border: 0px;
+    height: 665px;
+}
+
 .history img{
     width: 1600px;
-    height: 590px;
+    height: 665px;
     object-fit: cover;
 }
 
 main .card-img-overlay {
+    margin: 0 36px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    border-left: 1px solid  lightgray;
+    border-right: 1px solid  lightgray;
+}
+
+main .inner-card {
     left: unset;
     text-align: end;
     top: 118px;
     right: 180px;
 }
 
+.p3-1 {
+    font-size: 51px;
+    line-height: 1;
+    width: 444px;
+    font-family: Kalnia;
+    position: absolute;
+    top: 170px;
+    right: 135px;
+}
+
+.p3-2 {
+    font-size: 14px;
+    width: 405px;
+    position: absolute;
+    right: 132px;
+    top: 300px;
+    line-height: 1.3;
+    font-family: "Outfit", sans-serif;
+    color: lightgray;
+}
+
+.btn-area {
+    position: absolute;
+    right: 160px;
+    top: 405px;
+    font-size: 11px;
+    font-family: "Outfit", sans-serif;
+    color: lightgray;
+}
+
 .s-c-s img {
-    height: 750px;
-    filter: brightness(0.7)
+    height: 665px;
+    filter: brightness(0.7);
+    object-fit: cover;
+}
+
+.p4-1 {
+    font-size: 16px;
+    position: absolute;
+    left: 130px;
+    top: 195px;
+    font-family: "Outfit", sans-serif;
+    color: lightgray;
+}
+
+.p4-2 {
+    font-size: 55px;
+    line-height: .9;
+    width: 200px;
+    margin-bottom: 0;
+    font-family: Kalnia;
+    position: absolute;
+    left: 110px;
+    top: 240px;
+}
+
+.p4-3 {
+    font-size: 14px;
+    width: 360px;
+    text-align: start;
+    position: absolute;
+    left: 125px;
+    top: 365px;
+    font-family: "Outfit", sans-serif;
+    color: lightgray;
 }
 
 .s-c-s .carousel-indicators {
-    bottom: 30px;
-    right: 30px;
+    bottom: 205px;
+    right: -15px;
 }
 
 label {
     color: white;
     position: relative;
-    right: 230px;
-    bottom: -18px;
+    right: 181px;
+    bottom: -25px;
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+    color: lightgray;
+    text-align: end;
 }
 
-main .c-i-o {
-    top: 175px;
-    left: 400px;
-    right: unset
+.s-c-s [data-bs-target] {
+    background-clip: unset;
+    border-radius: 50%;
+    margin-bottom: -10px;
+    width: 15px;
+    height: 15px;
+    border: 3px solid white;
+    background-color: transparent;
+}
+
+.product {
+        margin: 0 36px;
+    display: flex;
+    gap: 10px;
+    height: 673px;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+}
+
+.product-card {
+    width: 29%;
+    height: 100%;
+    border-right: 1px solid #eee;
+    position: relative;
+}
+
+.img-area {
+    position: relative;
+    top: 60px;
+}
+
+    .img-area img {
+        width: 360px;
+        position: absolute;
+        top: 15px;
+        right: -35px;
+    }
+
+.info-area {
+    padding: 0px 22px;
+    position: absolute;
+    bottom: 100px;
+}
+
+.price {
+    font-size: 22px;
+    color: #7B0323;
+    font-family: Kalnia;
+}
+
+.old {
+    font-size: 10px;
+    color: black;
+}
+
+.name {
+    font-family: Outfit;
+}
+
+.brand {
+    font-size: 10px;    
+}
+
+.p5-1 {
+    font-size: 50px;
+    width: 100px;
+    line-height: 1;
+    position: relative;
+    top: 168px;
+    left: 120px;
+    font-family: Kalnia;
+}
+
+.p5-2 {
+    text-align: end;
+    width: 370px;
+    position: relative;
+    top: 188px;
+    left: 60px;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 1.3;
+}
+
+.product-text a {
+    position: relative;
+    top: 220px;
+    left: 328px;
+    font-size: 11px;
+    font-family: Outfit;
+}
+
+.area-btn button {
+    background-color: transparent;
+    border-radius: 50%;
+    padding: 0;
+    width: 50px;
+    height: 50px;
+    border: 1px solid lightgrey;
+    position: relative;
+    top: 370px;
+    left: 30px;
+}
+
+button svg {
+    fill: lightgrey !important;
+}
+
+main .card-2 {
+    height: 670px !important;
+}
+
+.card-2 img {
+    height: 100%;
+    filter: brightness(0.8);
+    object-fit: cover;  
+}
+
+.c-i-o {
+    position: relative;
+    text-align: center;
+    top: 247px;
+    font-size: 50px;
+    font-family: Kalnia;
+    line-height: 1;
+}
+
+.btns {
+    position: relative;
+    top: 295px;
+    left: 622px;
+}
+
+.btns button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    fill: white;
+    font-size: 12px;
+    font-family: Outfit;
+}
+
+button span {
+    border: 1px solid lightgrey;
+    border-radius: 50%;
+    width: 10px;
+    padding: 15px;
+    position: relative;
+    position: relative
+}
+
+.btn-1 {
+    position: relative;
+    right: 61px;
+}
+
+.btn-1 span {
+   left: 10px; 
+}
+
+.btn-2 span {
+    right: 10px;
 }
 
 .pub {
-    height: 600px;
-    margin: 10px 30px;
+    border-bottom: 1px solid #eee;
+    height: 680px;
+}
+.in-pub {
+    margin: 0px 36px;
     display: flex;
+    height: 680px;
 }
 
 .pub .card {
-    border: 1px solid #ccc;
+    border: 1px solid #eee;
     width: 50%;
-    padding: 35px;
+    padding-left: 70px;
+    padding-right: 56px;
+    padding-top: 88px;
+    height: 680px;
+    border-radius: 0;
 }
 
 .tag {
     font-size: 10px;
+    position: relative;
+    top: -10px;
+    left: 10px;
 }
 
 .tag span {
     color: #7B0323;
+    font-weight: bold;
+    font-size: 10px;
 }
 
 .title {
-    font-size: 35px;
+    font-size: 27px;
     line-height: 1.1;
-    font-family: Kalnia
+    font-family: Kalnia;
+    position: relative;
+    top: -10px;
+    left: 10px;
+}
+
+.in-pub button {
+    position: absolute;
+    right: 81px;
+    top: 165px;
+    background-color: transparent;
+    border: 1px solid #eee;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+}
+
+.in-pub svg {
+    fill: black !important;
+
 }
 
 .pub img {
-    height: 470px;
+    height: 400px;
     border: 1px solid black;
+}
+
+
+@media (max-width: 525px) {
+    .p3-1 {
+        font-size: 46px;
+    }
+}
+
+@media (max-width: 650px) {
+    .p3-1, .p3-2, .btn-area {
+        right: 30px;
+    }
+
+    .product-card {
+        display: none;
+    }
+}
+
+@media (max-width: 700px) {
+    .carousel-indicators {
+        display: none;
+    }
+
+    .p5-2 {
+        text-align: start;
+    }
+
+    .p5-1, .p5-2, .product-text a {
+        left: 20px;
+    }
+}
+
+@media (max-width: 800px) {
+    .p1-1, .p1-2, .p4-1, .p4-2, .p4-3 {
+        left: 30px;
+    } 
+
+    .pub {
+        height: 1360px;
+    }
+
+    .in-pub {
+        display: block;
+        height: 1360px;
+    }
+
+    .in-pub .card {
+        width: 100%;
+    }
+}
+
+@media (max-width: 880px) {
+    .d-2 {
+        display: none;
+    }
+
+    .product-card {
+        width: 50%;
+    }
+}
+
+@media (max-width: 980px) {
+    .d-1 {
+        display: none;
+    }
+}
+
+@media (max-width: 1000px) {
+    .info-area {
+        bottom: 30px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .img-area img {
+        right: -85px;
+    }
+}
+
+@media (min-width:1000px) and (max-width: 1300px) {
+    .info-area {
+        bottom: 70px;
+    }
 }
